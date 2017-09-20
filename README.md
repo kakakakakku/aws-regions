@@ -1,5 +1,7 @@
 # aws-regions
 
+[![CircleCI](https://circleci.com/gh/kakakakakku/aws-regions.svg?style=svg)](https://circleci.com/gh/kakakakakku/aws-regions)
+
 ## Install
 
 To install, use `go get`.
