@@ -22,7 +22,7 @@ type Regions []Region
 func main() {
 	app := cli.NewApp()
 	app.Name = "aws-regions"
-	app.Version = "v1.1.0"
+	app.Version = "v1.2.0"
 	app.HideHelp = false
 
 	app.Action = func(c *cli.Context) {
