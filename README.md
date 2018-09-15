@@ -1,5 +1,7 @@
 # aws-regions
 
+List AWS regions extremely simply 🌏
+
 [![CircleCI](https://circleci.com/gh/kakakakakku/aws-regions.svg?style=svg)](https://circleci.com/gh/kakakakakku/aws-regions)
 
 ## Install
@@ -19,11 +21,13 @@ us-east-2        US East (Ohio)              米国東部（オハイオ）
 us-west-1        US West (N. California)     米国西部（北カリフォルニア）
 us-west-2        US West (Oregon)            米国西部（オレゴン）
 ca-central-1     Canada (Central)            カナダ（中部）
-eu-west-1        EU (Ireland)                欧州（アイルランド）
 eu-central-1     EU (Frankfurt)              欧州（フランクフルト）
+eu-west-1        EU (Ireland)                欧州（アイルランド）
 eu-west-2        EU (London)                 欧州（ロンドン）
+eu-west-3        EU (Paris)                  EU（パリ）
 ap-northeast-1   Asia Pacific (Tokyo)        アジアパシフィック（東京）
 ap-northeast-2   Asia Pacific (Seoul)        アジアパシフィック（ソウル）
+ap-northeast-3   Asia Pacific (Osaka-Local)  アジアパシフィック（大阪: ローカル）
 ap-southeast-1   Asia Pacific (Singapore)    アジアパシフィック（シンガポール）
 ap-southeast-2   Asia Pacific (Sydney)       アジアパシフィック（シドニー）
 ap-south-1       Asia Pacific (Mumbai)       アジアパシフィック（ムンバイ）
