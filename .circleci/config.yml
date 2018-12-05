@@ -1,0 +1,16 @@
+version: 2
+
+jobs:
+  lint:
+    docker:
+      - image: golang
+    steps:
+      - checkout
+      - run: go get github.com/golang/lint/golint
+      - run: golint -min_confidence 0.6 -set_exit_status
+
+workflows:
+  version: 2
+  ci:
+    jobs:
+      - lint
