@@ -21,6 +21,8 @@ us-east-2        3 AZs   US East (Ohio)               米国東部（オハイ�
 us-west-1        3 AZs   US West (N. California)      米国西部（北カリフォルニア）
 us-west-2        3 AZs   US West (Oregon)             米国西部（オレゴン）
 ca-central-1     2 AZs   Canada (Central)             カナダ（中部）
+cn-north-1       2 AZs   China (Beijing)              中国 (北京) リージョン
+cn-northwest-1   3 AZs   China (Ningxia)              中国 (寧夏) リージョン
 eu-central-1     3 AZs   EU (Frankfurt)               欧州（フランクフルト）
 eu-west-1        3 AZs   EU (Ireland)                 欧州（アイルランド）
 eu-west-2        3 AZs   EU (London)                  欧州（ロンドン）
@@ -32,4 +34,6 @@ ap-southeast-1   3 AZs   Asia Pacific (Singapore)     アジアパシフィッ�
 ap-southeast-2   3 AZs   Asia Pacific (Sydney)        アジアパシフィック（シドニー）
 ap-south-1       2 AZs   Asia Pacific (Mumbai)        アジアパシフィック（ムンバイ）
 sa-east-1        3 AZs   South America (São Paulo)    南米（サンパウロ）
+us-gov-east-1    3 AZs   AWS GovCloud (US-East)       AWS GovCloud (米国東部)
+us-gov-west-1    3 AZs   AWS GovCloud (US)            AWS GovCloud (米国)
 ```
