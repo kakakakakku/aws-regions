@@ -26,7 +26,9 @@ cn-northwest-1   3 AZs   China (Ningxia)              中国 (寧夏) リージ�
 eu-central-1     3 AZs   EU (Frankfurt)               欧州（フランクフルト）
 eu-west-1        3 AZs   EU (Ireland)                 欧州（アイルランド）
 eu-west-2        3 AZs   EU (London)                  欧州（ロンドン）
-eu-west-3        3 AZs   EU (Paris)                   EU（パリ）
+eu-west-3        3 AZs   EU (Paris)                   欧州（パリ）
+eu-north-1       3 AZs   EU (Stockholm)               欧州（ストックホルム）
+ap-east-1        3 AZs   Asia Pacific (Hong Kong)     アジアパシフィック（香港）
 ap-northeast-1   4 AZs   Asia Pacific (Tokyo)         アジアパシフィック（東京）
 ap-northeast-2   2 AZs   Asia Pacific (Seoul)         アジアパシフィック（ソウル）
 ap-northeast-3   1 AZs   Asia Pacific (Osaka-Local)   アジアパシフィック（大阪: ローカル）
@@ -35,5 +37,5 @@ ap-southeast-2   3 AZs   Asia Pacific (Sydney)        アジアパシフィッ�
 ap-south-1       2 AZs   Asia Pacific (Mumbai)        アジアパシフィック（ムンバイ）
 sa-east-1        3 AZs   South America (São Paulo)    南米（サンパウロ）
 us-gov-east-1    3 AZs   AWS GovCloud (US-East)       AWS GovCloud (米国東部)
-us-gov-west-1    3 AZs   AWS GovCloud (US)            AWS GovCloud (米国)
+us-gov-west-1    3 AZs   AWS GovCloud (US)            AWS GovCloud (米国西部)
 ```
