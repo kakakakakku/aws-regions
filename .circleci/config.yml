@@ -6,7 +6,7 @@ jobs:
       - image: golang
     steps:
       - checkout
-      - run: go get github.com/golang/lint/golint
+      - run: go get golang.org/x/lint/golint
       - run: golint -min_confidence 0.6 -set_exit_status
 
 workflows:
