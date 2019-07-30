@@ -34,6 +34,7 @@ func main() {
 		rs = append(rs, Region{"ca-central-1", "Canada (Central)", "カナダ（中部）", "2 AZs"})
 		rs = append(rs, Region{"cn-north-1", "China (Beijing)", "中国 (北京) リージョン", "2 AZs"})
 		rs = append(rs, Region{"cn-northwest-1", "China (Ningxia)", "中国 (寧夏) リージョン", "3 AZs"})
+		rs = append(rs, Region{"me-south-1", "Middle East (Bahrain)", "中東 (バーレーン)", "3 AZs"})
 		rs = append(rs, Region{"eu-central-1", "EU (Frankfurt)", "欧州（フランクフルト）", "3 AZs"})
 		rs = append(rs, Region{"eu-west-1", "EU (Ireland)", "欧州（アイルランド）", "3 AZs"})
 		rs = append(rs, Region{"eu-west-2", "EU (London)", "欧州（ロンドン）", "3 AZs"})

@@ -23,6 +23,7 @@ us-west-2        3 AZs   US West (Oregon)             米国西部（オレゴ�
 ca-central-1     2 AZs   Canada (Central)             カナダ（中部）
 cn-north-1       2 AZs   China (Beijing)              中国 (北京) リージョン
 cn-northwest-1   3 AZs   China (Ningxia)              中国 (寧夏) リージョン
+me-south-1       3 AZs   Middle East (Bahrain)        中東 (バーレーン)
 eu-central-1     3 AZs   EU (Frankfurt)               欧州（フランクフルト）
 eu-west-1        3 AZs   EU (Ireland)                 欧州（アイルランド）
 eu-west-2        3 AZs   EU (London)                  欧州（ロンドン）
